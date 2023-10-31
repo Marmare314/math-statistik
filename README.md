@@ -1,2 +1,2 @@
-# math-statistik
+# Mathematische Statistik
 Notizen zur Vorlesung Mathematische Statistik.
